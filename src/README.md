@@ -1,37 +1,50 @@
-Clumsy Bird
-===========
+Hextris
+==========
 
-A MelonJS made "Flappy Bird" clone.
+<img src="images/twitter-opengraph.png" width="100px"><br>
 
-![](http://i.imgur.com/Slbvt65.png)
+An addictive puzzle game inspired by Tetris. Play it at [www.hextris.io](http://www.hextris.io), or [https://hextris.github.io/hextris](https://hextris.github.io/hextris).
 
-Play online at http://ellisonleao.github.io/clumsy-bird/
-
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/ellisonleao/clumsy-bird/tree/gh-pages)
-
-## Running Locally
-
-- Install [Node](http://nodejs.org/download/) and [Grunt](http://gruntjs.com/)
-- Install the dependencies
-
+By:
+ - Logan Engstrom ([@lengstrom](http://loganengstrom.com/))
+ - Garrett Finucane ([@garrettdreyfus](http://github.com/garrettdreyfus))
+ - Noah Moroze ([@nmoroze](http://github.com/nmoroze))
+ - Michael Yang ([@themichaelyang](http://github.com/themichaelyang))
+ 
+ ## Citation
+Did you use Hextris in your research? Cite us as follows:
 ```
-npm install
+  @misc{engstrom2015hextris,
+    author = {Logan Engstrom, Garrett Finucane, Noah Moroze, Michael Yang},
+    title = {hextris},
+    year = {2015},
+    howpublished = {\url{https://github.com/hextris/hextris/}},
+    note = {commit xxxxxxx}
+  }
 ```
 
-Then just type on your shell:
 
-```
-grunt connect
-```
+# Contributions
+This project is not very actively maintained, as we are all very busy these days. But feel free to open an issue or PR, and we'll eventually take a look.
 
-Open your browser at `http://localhost:8001/`
+# About
+Hextris was created by a group of high school friends in 2014.
 
-## Making your customization
+## Press kit
+http://hextris.github.io/presskit/info.html
 
-See [CUSTOMIZING](https://github.com/ellisonleao/clumsy-bird/blob/master/CUSTOMIZING.md)
+## License
+Copyright (C) 2018 Logan Engstrom
 
-## Some nice games made with this project
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
 
-[Checkout here](https://github.com/ellisonleao/clumsy-bird/wiki/Games-using-clumsy-bird-code)
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
 
-Some thoughts about this code you can find on [my blog post](https://medium.com/@ellisonleao/clumsy-bird-an-open-source-flappy-bird-clone-cf615724730f)
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
