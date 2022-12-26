@@ -18,7 +18,7 @@ spec:
         app: hextris
     spec:
       containers:
-      - image: dhanrajranvirkar/hextris:88
+      - image: dhanrajranvirkar/hextris:89
         name: hextris
         resources: {}
 status: {}
